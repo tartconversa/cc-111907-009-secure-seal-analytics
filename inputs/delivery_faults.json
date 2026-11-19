@@ -1,0 +1,10 @@
+[
+  {
+    "recipient": "U2",
+    "fail_first": 1
+  },
+  {
+    "recipient": "U4",
+    "fail_first": 0
+  }
+]

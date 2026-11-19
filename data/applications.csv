@@ -1,4 +1,0 @@
-application_id,department,scope,submitted_utc,approved_utc,status
-a1,legal,contract-low,2026-11-18T09:00:00Z,2026-11-18T09:40:00Z,signed
-a2,legal,contract-low,2026-11-18T10:10:00Z,,pending
-a3,sales,contract-basic,2026-11-18T11:00:00Z,2026-11-18T11:30:00Z,signed

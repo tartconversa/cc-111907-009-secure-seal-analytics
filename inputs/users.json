@@ -1,0 +1,27 @@
+[
+  {
+    "user": "U1",
+    "role": "compliance",
+    "scope": "all"
+  },
+  {
+    "user": "U2",
+    "role": "department",
+    "scope": "sales"
+  },
+  {
+    "user": "U3",
+    "role": "department",
+    "scope": "legal"
+  },
+  {
+    "user": "U4",
+    "role": "counterparty",
+    "scope": "C1"
+  },
+  {
+    "user": "U5",
+    "role": "reviewer",
+    "scope": "all"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "application": "A1",
+    "department": "sales",
+    "counterparty": "C1",
+    "scope": "basic",
+    "amount_fen": 50000,
+    "submitted": "2026-11-15T00:00:00Z"
+  },
+  {
+    "application": "A2",
+    "department": "legal",
+    "counterparty": "C2",
+    "scope": "restricted",
+    "amount_fen": 300000,
+    "submitted": "2026-11-16T09:00:00Z"
+  },
+  {
+    "application": "A3",
+    "department": "legal",
+    "counterparty": "C2",
+    "scope": null,
+    "amount_fen": 100000,
+    "submitted": "2026-11-16T11:00:00Z"
+  },
+  {
+    "application": "A4",
+    "department": "sales",
+    "counterparty": "C3",
+    "scope": "basic",
+    "amount_fen": 70000,
+    "submitted": "2026-11-16T08:00:00Z"
+  }
+]

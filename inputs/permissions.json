@@ -1,0 +1,37 @@
+[
+  {
+    "id": "P1",
+    "department": "sales",
+    "scope": "basic",
+    "start": "2026-10-20T00:00:00Z",
+    "end": "2026-11-19T00:00:00Z",
+    "limit_fen": 100000,
+    "joint_roles": [
+      "manager"
+    ]
+  },
+  {
+    "id": "P2",
+    "department": "legal",
+    "scope": "restricted",
+    "start": "2026-10-20T00:00:00Z",
+    "end": "2026-11-16T10:00:00Z",
+    "limit_fen": 500000,
+    "joint_roles": [
+      "manager",
+      "legal"
+    ]
+  },
+  {
+    "id": "P3",
+    "department": "legal",
+    "scope": "restricted",
+    "start": "2026-11-16T10:00:00Z",
+    "end": "2026-12-19T00:00:00Z",
+    "limit_fen": 200000,
+    "joint_roles": [
+      "manager",
+      "legal"
+    ]
+  }
+]

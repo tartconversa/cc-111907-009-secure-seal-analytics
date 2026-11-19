@@ -1,4 +1,0 @@
-permission_id,department,scope,version,effective_utc,status
-p1,legal,contract-low,v1,2026-11-01T00:00:00Z,active
-p2,legal,contract-low,v2,2026-11-18T10:00:00Z,revoked
-p3,sales,contract-basic,v1,2026-11-01T00:00:00Z,active

@@ -1,0 +1,61 @@
+{
+  "permissions": {
+    "definition": "授权上限为单份合同金额，联合审批按 joint_roles 要求。",
+    "columns": {
+      "id": "授权",
+      "department": "部门",
+      "scope": "合同类型",
+      "start": "生效",
+      "end": "结束",
+      "limit_fen": "上限分",
+      "joint_roles": "必须具备的审批角色"
+    }
+  },
+  "applications": {
+    "definition": "没有范围证据时 scope 为 null。",
+    "columns": {
+      "application": "申请",
+      "department": "部门",
+      "counterparty": "相对方",
+      "scope": "合同类型",
+      "amount_fen": "合同金额分",
+      "submitted": "提交时刻"
+    }
+  },
+  "approvals": {
+    "definition": "角色审批包含明确时点，不以申请时授权替代。",
+    "columns": {
+      "id": "审批",
+      "application": "申请",
+      "role": "审批角色",
+      "approved": "审批时刻",
+      "decision": "approve/reject"
+    }
+  },
+  "receipts": {
+    "definition": "同 id 版本更正；签署是事实，合规分类另外裁定。",
+    "columns": {
+      "id": "回执身份",
+      "version": "版本",
+      "application": "申请",
+      "signed": "签署发生时刻",
+      "received": "接收",
+      "status": "completed/failed/revoked"
+    }
+  },
+  "users": {
+    "definition": "合规、部门、相对方账号以本地身份模拟。",
+    "columns": {
+      "user": "用户",
+      "role": "compliance/department/counterparty/reviewer",
+      "scope": "部门或相对方，可全域"
+    }
+  },
+  "delivery_faults": {
+    "definition": "本地收件箱投递演练的失败次数，仅模拟可重试故障。",
+    "columns": {
+      "recipient": "用户",
+      "fail_first": "最初几次失败"
+    }
+  }
+}

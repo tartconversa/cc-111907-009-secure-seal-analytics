@@ -1,0 +1,12 @@
+{
+  "files": {
+    "permissions.json": "f5687a92655b12fb6e03d0dc5f375fe4cd9b960f5193ed7a23b5bdb53d3a47d8",
+    "applications.json": "02f1888f57d17942c0fd141c5bf8088b1c822acc46c5a5928ab9a2f1e4b5f7f6",
+    "approvals.json": "4542087ef50c900d90bedbfdf01cfdbfa0f33f444cbc43cd81c4b239497c882f",
+    "receipts.json": "9b3cf8df386474d07ba3e9a75393a7b97d12a232114dc1852c8d4d69fc8d19b7",
+    "users.json": "283e2071469b1246678cf9e29952d8f10489116ee3fa8f68093e61faa38cd3b0",
+    "delivery_faults.json": "2c38954b565dd6750ac56e9d519b054e3746d80dff665b1166d00f83f28f22f1",
+    "schema.json": "c582dcf0d79013c34ee685c90d6e62bda7811f65c28ec0d75c13eb1ea0d2dd9f"
+  },
+  "synthetic": true
+}

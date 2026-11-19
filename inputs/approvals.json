@@ -1,0 +1,30 @@
+[
+  {
+    "id": "K1",
+    "application": "A1",
+    "role": "manager",
+    "approved": "2026-11-15T01:00:00Z",
+    "decision": "approve"
+  },
+  {
+    "id": "K2",
+    "application": "A2",
+    "role": "manager",
+    "approved": "2026-11-16T09:30:00Z",
+    "decision": "approve"
+  },
+  {
+    "id": "K3",
+    "application": "A2",
+    "role": "legal",
+    "approved": "2026-11-16T10:30:00Z",
+    "decision": "approve"
+  },
+  {
+    "id": "K4",
+    "application": "A4",
+    "role": "manager",
+    "approved": "2026-11-16T09:00:00Z",
+    "decision": "approve"
+  }
+]
