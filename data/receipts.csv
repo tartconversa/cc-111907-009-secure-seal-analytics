@@ -1,0 +1,4 @@
+receipt_id,application_id,event,occurred_utc,received_utc
+r1,a1,signature-complete,2026-11-18T09:45:00Z,2026-11-18T09:45:02Z
+r2,a1,signature-complete,2026-11-18T09:45:00Z,2026-11-20T08:00:00Z
+r3,a3,signature-complete,2026-11-18T11:35:00Z,2026-11-18T11:35:02Z

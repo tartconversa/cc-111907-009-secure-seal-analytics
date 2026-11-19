@@ -1,0 +1,3 @@
+review_id,application_id,reviewer,reason,status
+x1,a2,u-1,permission-changed,open
+x2,a1,u-2,duplicate-receipt,closed
